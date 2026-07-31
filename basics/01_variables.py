@@ -1,5 +1,5 @@
 name = "Manish"
-course = "Python for DevOps"
+course = "python for DevOps"
 city = "Delhi"
 
 print(name)
