@@ -3,7 +3,7 @@
 
 
 
-name = input("Enter your name:")
-city = input("Enter your city:")
-print("Name:", name)
-print("City:", city)
+brand_name = input("enter your brand name:")
+origin_city = input("Enter origin city:")
+print("Brand Name:", brand_name)
+print("Origin City:", origin_city)
