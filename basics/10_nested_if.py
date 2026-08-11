@@ -11,10 +11,26 @@ else:
 
 marks = int(input("Enter your marks:"))
 
-if marks <= 20:
+
+if marks >= 35:
     if marks >= 80:
+
         print("Excellent")
     else:
         print("you passed")
 else:
     print("you failed")
+
+
+username = input("Enter your username:")
+password = input("Enter password:")
+
+if username == "admin":
+    if password == "1234":
+        print("Login successful")
+    else:
+        print("Incorrect password")
+else:
+    print("user not found")
+
+
