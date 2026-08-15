@@ -5,4 +5,4 @@ print(type(age))
 
 height = float(input("Enter your height:"))
 print("your height is:", height)
-print(type(height)) 
+print(type(height))
